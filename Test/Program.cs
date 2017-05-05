@@ -11,7 +11,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.Out.WriteLine(@"Hello World Test Again");
+            Console.Out.WriteLine(@"Hello World");
 
             HttpClient client = new HttpClient();
 
